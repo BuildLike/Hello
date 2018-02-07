@@ -36,7 +36,7 @@ website: https://github.com/pmmp/PocketMine-DevTools
 #This node is optional and can be removed if your plugin will not have any commands.
 commands:
  #Name of the command. This is what people will type to execute the command.
- examplecommand:
+ hi:
   #Description to show in the Help command
   description: "인사 명령어"
   #Usage message shown to the user if they type the command in incorrectly.
@@ -56,4 +56,4 @@ permissions:
   children:
    skeleton.command:
     default: true
-    description: "Allows the use of /examplecommand"
+    description: "YEE"
